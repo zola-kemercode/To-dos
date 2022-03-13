@@ -1,0 +1,51 @@
+[
+
+    {
+        "id": "1",
+        "title": "Saw",
+        "year": "2004",
+        "rating": "7.8",
+        "votes": "1,838",
+        "running_times": "6720"
+    },
+    {
+        "id": "2",
+        "title": "Logan",
+        "year": "2017",
+        "rating": "8.0",
+        "votes": "1,838",
+        "running_times": "7860"
+    },
+    {
+        "id": "3",
+        "title": "Venom",
+        "year": "2018",
+        "rating": "7.8",
+        "votes": "1,838",
+        "running_times": "6360"
+    },
+    {
+        "id": "4",
+        "title": "The Last Samurai",
+        "year": "2003",
+        "rating": "8.0",
+        "votes": "1,838",
+        "running_times": "7860"
+    }, 
+    {
+        "id": "5",
+        "title": "The Last of the Mohicans",
+        "year": "1936",
+        "rating": "8.1",
+        "votes": "8,816",
+        "running_times": "7380"
+    },
+    {
+        "id": "6",
+        "title": "Rambo: First Blood Part II",
+        "year": "1985",
+        "rating": "6.9",
+        "votes": "1,838",
+        "running_times": "5700"
+    }
+]
